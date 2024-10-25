@@ -47,3 +47,9 @@ for(let day of days){
 }
 
 //for in-->loop for object only
+
+// let result = 0
+// for(let i = 1;i <=3;i++){
+//     result += i
+// }
+// console.log(result)
