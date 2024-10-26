@@ -60,3 +60,8 @@ Add(5)
 //     }
 //     }
 //     loopName2()
+
+function greet(name) {
+    return 'Hello, $name!';
+}
+console.log(greet('TRI'));
