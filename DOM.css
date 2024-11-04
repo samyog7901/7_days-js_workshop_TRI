@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gilroy';
+}
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+#bulb {
+    height: 300px;
+    width: 300px;
+    border-radius: 99.99%;
+    border: 4px solid black;
+    /* background-color: yellow; */
+    margin: 20px;
+  
+   
+}
+#holder{
+    height: 6rem;
+    width: 5rem;
+    border: 2px solid black;
+    border-radius: 20%;
+    position: relative;
+    top: 293px;
+    left: 110px;
+    background-color: black;
+}
+button{
+    padding: 10px 30px;
+    font-size: 20px;
+    margin: 50px;
+    position: relative;
+    top: 50px;
+}
